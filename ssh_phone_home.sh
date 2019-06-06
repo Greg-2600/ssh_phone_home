@@ -1,9 +1,9 @@
 #!/bin/sh
 
-user="$1"
-pass="$2"
-host="$3"
-port="$4"
+user="h4x0r"
+pass="3!E37"
+host="command.control.con"
+port="2600"
 
 
 get_packages() {
