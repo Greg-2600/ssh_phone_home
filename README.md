@@ -1,2 +1,2 @@
 # ssh_phone_home
-ssh reverse shell root with no password
+sort of sneaky, persistent, encrypted, connect back root shell
